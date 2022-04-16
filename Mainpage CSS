@@ -1,0 +1,230 @@
+body
+	{
+	background-color: #505054;
+	margin: 0;
+	}
+
+h1
+	{
+	color: white;
+	font-family: Times New Roman;
+	text-align: center;
+	text-shadow: 5px 6px black;
+	}
+
+p
+	{
+	text-shadow: 2px 3px grey;
+	}
+
+iframe
+	{
+	border: 2px #505054;
+	height: 100vh;
+	width: 100%;
+	scrolling: no;
+	}
+
+.navbar
+	{
+    	overflow: hidden;
+    	background-color: black;
+	font-family: Times New Roman;
+	}
+
+.navbar a
+	{
+    	float: left;
+    	font-size: 16px;
+    	color: white;
+    	text-align: center;
+    	padding: 0px 10px;
+    	text-decoration: none;
+	}
+
+.dropdown
+	{
+    	float: left;
+    	overflow: hidden;
+	}
+
+.dropdown .dropbtn
+	{
+    	font-size: 16px;    
+    	border: none;
+    	outline: none;
+   	color: white;
+    	padding: 0px 10px;
+    	background-color: black;
+	}
+
+.navbar a:hover, .dropdown:hover .dropbtn
+	{
+   	background-color: #ff6600;
+	}
+
+.dropdown-content
+	{
+    	display: none;
+    	position: absolute;
+	background-image: url("inmtextb.gif");
+	background-color: #cccccc;
+    	min-width: 160px;
+    	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    	z-index: 1;
+	}
+
+.dropdown-content a
+	{
+	float: none;
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+    	display: block;
+    	text-align: left;
+	}
+
+.dropdown-content a:hover
+	{
+  	background-color: #ddd;
+	}
+
+.dropdown:hover .dropdown-content
+	{
+    	display: block;
+	}
+
+.navbar a:hover, .dropdown3:hover .dropbtn4
+	{
+   	background-color: #ff6600;
+	}
+
+.dropdown3
+	{
+    	float: Right;
+    	overflow: hidden;
+	}
+
+.dropdown3 .dropbtn4
+	{
+    	font-size: 16px;    
+    	border: none;
+    	outline: none;
+    	color: black;
+    	padding: 14px 16px;
+    	background-color: black;
+	}
+
+.dropdown3-content
+	{
+    	display: none;
+    	position: absolute;
+	background-image: url("inmtextb.gif");
+	background-color: #cccccc;
+    	min-width: 160px;
+    	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    	z-index: 1;
+	}
+
+.dropdown3-content a
+	{
+    	float: none;
+    	color: black;
+    	padding: 12px 16px;
+    	text-decoration: none;
+    	display: block;
+    	text-align: left;
+	}
+
+.dropdown3-content a:hover
+	{
+    	background-color: #ddd;
+	}
+
+.dropdown3:hover .dropdown3-content
+	{
+    	display: block;
+	}
+
+
+.dropdownex
+	{
+    	float: left;
+    	overflow: hidden;
+	}
+
+.dropdownex .dropbtn2
+	{
+    	font-size: 16px;    
+    	border: none;
+    	outline: none;
+    	color: white;
+    	padding: 14px 16px;
+    	background-color: #009900;
+	}
+
+.dropdownex .dropbtn3
+	{
+    	font-size: 16px;    
+    	border: none;
+    	outline: none;
+    	color: white;
+    	padding: 14px 16px;
+    	background-color: #ff0000;
+	}
+
+.dropdownex .dropbtn4
+	{
+    	font-size: 16px;    
+    	border: none;
+    	outline: none;
+    	color: white;
+    	padding: 14px 16px;
+    	background-color: #0000b3;
+	}
+
+.dropdownex:hover .dropbtn2
+	{
+   	background-color: #9900cc;
+	}
+
+.dropdownex:hover .dropbtn3
+	{
+   	background-color: #9900cc;
+	}
+
+.dropdownex:hover .dropbtn4
+	{
+   	background-color: #9900cc;
+	}
+
+.dropdown-content2
+	{
+    	display: none;
+    	position: absolute;
+	background-image: url("inmtextb.gif");
+	background-color: #cccccc;
+    	min-width: 160px;
+    	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    	z-index: 1;
+	}
+
+.dropdown-content2 a
+	{
+    	float: none;
+    	color: black;
+    	padding: 12px 16px;
+    	text-decoration: none;
+    	display: block;
+    	text-align: left;
+	}
+
+.dropdown-content2 a:hover
+	{
+    	background-color: #ddd;
+	}
+
+.dropdownex:hover .dropdown-content2
+	{
+    	display: block;
+	}
