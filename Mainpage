@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+	<html lang="en=US">
+		<header>
+			<title>Forecaster Links</title>
+		</header>
+		<head>
+			<link rel="stylesheet" type="text/css" href="2 - Back up Metcon\Metcon_style.css" />
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<!-- Add icon library -->
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		</head>
+		<body>
+			<div class="navbar">
+  			<a href="2 - Back Up Metcon/Start Page.html" class="home" target=display><p><i class="fa fa-home"> Home</i></p></a>
+				<div class="dropdown">
+    					<button class="dropbtn"><p><i class="fa fa-bars"></i> Jets</p></button>
+    					<div class="dropdown-content">
+						<table>
+							<tr>
+								<th><a href="https://owsjet15.us.af.mil/portal/public/Guest/" target=_blank>15th Jet Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://owsjet17.us.af.mil/portal/public/Guest/" target=_blank>17th Jet Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://owsjet21.us.af.mil/portal/public/Guest/" target=_blank>21st Jet Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://owsjet23.us.af.mil/portal/public/Guest/" target=_blank>23rd Jet Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://owsjet25.us.af.mil/portal/public/Guest/" target=_blank>25th Jet Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://owsjet26.us.af.mil/portal/public/Guest/" target=_blank>26th Jet Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://owsjet28.us.af.mil/portal/public/Guest/" target=_blank>28th Jet Page</a></th>
+							</tr>
+						</table>
+    					</div>
+  				</div>
+				<div class="dropdown">
+    					<button class="dropbtn"><p><i class="fa fa-bars"></i> Hubs</p></button>
+    					<div class="dropdown-content">
+						<table>
+							<tr>
+								<th><a href="https://15ows.us.af.mil/" target=_blank>15th Hub Home Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://17ows.us.af.mil/" target=_blank>17th Hub Home Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://21ows.us.af.mil/" target=_blank>21st Hub Home Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://23sows.us.af.mil/" target=_blank>23rd Hub Home Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://25ows.us.af.mil/" target=_blank>25th Hub Home Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://26ows.us.af.mil/" target=_blank>26th Hub Home Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://ows.sc.afcent.af.mil/" target=_blank>28th Hub Home Page</a></th>
+							</tr>
+						</table>
+    					</div>
+  				</div>
+				<div class="dropdown">
+    					<button class="dropbtn"><p><i class="fa fa-bars"></i> Airfield</p></button>
+    					<div class="dropdown-content">
+						<table>
+							<tr>
+								<th><a href="https://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=conus&x=3890&y=4825&z=3&angle=0&im=6&ts=1&st=0&et=0&speed=130&motion=loop&maps%5Bborders%5D=white&lat=0&p%5B0%5D=geocolor&opacity%5B0%5D=1&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&draw_color=FFD700&draw_width=6" target=_blank>Backup Satellite</a></th>
+								<th><a href="http://www.usahas.com/" target=_blank>SR Tracks</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://mesowest.utah.edu/cgi-bin/droman/mesomap.cgi?state=LA&rawsflag=3" target=_blank>Mesowest Utah</a></th>
+								<th><a href="https://skyvector.com/" target=_blank>Sky Vector</a></th>
+							</tr>
+							<tr>
+								<th><a href="http://weather.cod.edu/forecast/" target=_blank>Next Gen Weather Lab</a></th>
+								<th><a href="https://weather.af.mil/confluence/display/AFWWEBSTBT/Ensembles+Main+Page?suite=probs&region=conus&model=GEPS&goToPEP=KPOE" target=_blank>Ensembles</a></th>
+							</tr>
+							<tr>
+								<th><a href="http://aviationweather.gov/metar?gis=off" target=_blank>Adds Metar</a></th>
+								<th><a href="https://www.climate.af.mil/" target=_blank>14th Weather Page</a></th>
+							</tr>
+							<tr>
+								<th><a href="http://www.gcmap.com/" target=_blank>Great circle Mapper</a></th>
+								<th><a href="http://aa.usno.navy.mil/data/docs/RS_OneDay.php" target=_blank>Solar / Lunar Data</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://weather.af.mil/AFW_WEBS/viewer/MapModule.php?permalinkId=8529EB06-53BE-B2B5-E33F-33C4E36FB6D1" target=_blank>AFW-WEBS</a></th>
+								<th><a href="https://25ows.us.af.mil/contacts/sar/" target=_blank>SAR Request</a></th>
+							</tr>
+						</table>
+    					</div>
+  				</div>
+				<div class="dropdown">
+    					<button class="dropbtn"><p><i class="fa fa-bars"></i> Administration</p></button>
+    					<div class="dropdown-content">
+						<table>
+							<tr>
+								<th><a href="https://golearn.adls.af.mil/login.aspx" target=_blank>ADLS</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://mypay.dfas.mil/mypay.aspx" target=_blank>MyPay</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://leave.af.mil/login" target=_blank>LeaveWeb</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://dtsproweb.defensetravel.osd.mil/dts-app/pubsite/all/view/" target=_blank>DTS</a></th>
+							</tr>
+							<tr>
+								<th><a href="https://weather.af.mil/AFW_WEBS/WxFIIG_Client/products.php" target=_blank>5 Day Creation</a></th>
+							</tr>
+						</table>
+    					</div>
+  				</div>
+				<a href="Shift Checklist.html" class="home" target=display><p><i class="fa fa-bars"> Shift Checklist</i></p></a>
+  				<div class="dropdown3">
+    					<button class="dropbtn4">Secret</button>
+    					<div class="dropdown3-content">
+						<a href="https://www.youtube.com/" target=_BLANK>Y</a>
+						<a href="https://www.facebook.com/" target=_BLANK>F</a>
+						<a href="https://www.amazon.com/" target=_BLANK>A</a>
+    					</div>
+  				</div>
+			</div>
+			<iframe name="display" src="2 - Back Up Metcon/Start Page.html" ></iframe>
+			<p><font size="1">Created By SrA Lewis, Shaun M</font></p>
+		</body>
+	</html>
